@@ -41,16 +41,16 @@ Explore our latest blog posts, where we share best practices, technical deep div
 
 These are the tools and frameworks we trust and enjoy working with to build great solutions.
 
-:heart_on_fire: Go :heart_on_fire:
-:heart_on_fire: Kubernetes :heart_on_fire:
-:yellow_heart: ArgoCD :yellow_heart:
-:orange_heart: Crossplane :orange_heart:
-:green_heart: AWS Cloud :green_heart:
-:mending_heart: Hetzner :mending_heart:
-:purple_heart: Terraform & OpenTofu :purple_heart:
-:purple_heart: HashiCorp Vault :purple_heart:
-:purple_heart: HA Proxy :purple_heart:
-:purple_heart: Cert-Manager :purple_heart:
-:purple_heart: Kyverno :purple_heart:
-:purple_heart: Victory Metrics :purple_heart:
-:purple_heart: Grafana :purple_heart:
+:heart_on_fire: Go
+:heart_on_fire: Kubernetes
+:yellow_heart: ArgoCD
+:orange_heart: Crossplane
+:green_heart: AWS Cloud
+:mending_heart: Hetzner
+:purple_heart: Terraform & OpenTofu
+:purple_heart: HashiCorp Vault
+:purple_heart: HA Proxy
+:purple_heart: Cert-Manager
+:purple_heart: Kyverno
+:purple_heart: Victory Metrics
+:purple_heart: Grafana
